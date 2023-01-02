@@ -1,5 +1,5 @@
 > # **Fantasium Rec Room Cheat**
-Made by neptune#1995 and fanta_foxx#9547. This was made public due to a member of Orangutang Operation getting token logged & this getting leaked. I have no plans on maintaining or updating this repo. This cheat changes local permissions to allow flying, invention spawning, and partial use of Maker Pen.
+Made by neptune#1995 and fanta_foxx#9547. This was made public due to a member of Orangutan Operation getting token logged & this getting leaked. I have no plans on maintaining or updating this repo. This cheat changes local permissions to allow flying, invention spawning, and partial use of Maker Pen.
 
 ![](https://img.shields.io/github/downloads/neptuneq/Fantasium/total)
 
